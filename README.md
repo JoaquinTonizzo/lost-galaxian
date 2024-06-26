@@ -1,4 +1,4 @@
-# Lost Galaxian 🚀
+# Trabajo Práctico Final Programación 1 - Lost Galaxian 🚀
 
 ## Descripción ​👨‍🚀​
 
